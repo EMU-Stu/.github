@@ -4,7 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/EMU-Stu/EMU-Stu-Brand/main/assets/logos/emu-stu/logo.png" width="140" alt="EMU-Stu Logo"/>
 
-[![https://github.com/EMU-Stu](https://visit.futseyi.com/api/combined?path=https%3A%2F%2Fgithub.com%2FEMU-Stu&label=Visitor%E8%AE%BF%E9%97%AE%E9%87%8F&labelColor=%236495ED&countColor=%23555555&style=flat&labelStyle=default)](https://visit.futseyi.com/status?path=https%3A%2F%2Fgithub.com%2FEMU-Stu)
+[![https://github.com/EMU-Stu](https://visit.futseyi.com/api/combined?path=https%3A%2F%2Fgithub.com%2FEMU-Stu)](https://visit.futseyi.com/status?path=https%3A%2F%2Fgithub.com%2FEMU-Stu)
 
 ### Student Organization for Labs, Open Source, and Technical Collaboration
 
