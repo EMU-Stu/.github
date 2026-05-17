@@ -27,11 +27,8 @@ We provide a unified space for students and labs to host, manage, and showcase p
 
 ## Labs
 
-* Vision Lab
-* AI Lab
-* Web Lab
-* Security Lab
-
+* IOT Lab
+* CNB Lab
 > More labs coming soon.
 
 ---
