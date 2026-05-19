@@ -4,77 +4,82 @@
 
 <img src="https://raw.githubusercontent.com/EMU-Stu/EMU-Stu-Brand/main/assets/logos/emu-stu/logo.png" width="140" alt="EMU-Stu Logo"/>
 
+[English](./README.en.md)
+
 [![https://github.com/EMU-Stu](https://visit.futseyi.com/api/combined?path=https%3A%2F%2Fgithub.com%2FEMU-Stu)](https://visit.futseyi.com/status?path=https%3A%2F%2Fgithub.com%2FEMU-Stu)
 
-### Student Organization for Labs, Open Source, and Technical Collaboration
+### 面向实验室、开源项目与技术协作的学生组织
 
-Building projects, sharing ideas, and growing together.
+一起构建项目、分享想法、共同成长。
 
 </div>
 
 ---
 
-## About
+## 关于我们
 
-**EMU-Stu** is a student-driven GitHub organization focused on:
+**EMU-Stu** 是一个由学生驱动的 GitHub 组织，专注于：
 
-* Laboratory collaboration
-* Open-source projects
-* Technical learning and sharing
-* Student innovation and development
+* 实验室协作
+* 开源项目建设
+* 技术学习与分享
+* 学生创新与发展
 
-We provide a unified space for students and labs to host, manage, and showcase projects.
-
----
-
-## Labs
-
-* IOT Lab
-* CNB Lab
-> More labs coming soon.
+我们为学生和实验室提供统一的空间，用于托管、管理和展示项目。
 
 ---
 
-## Featured Projects
+## 实验室
 
-| Project        | Description                                   |
-| -------------- | --------------------------------------------- |
-| hitscounter    | Minimal visitor counter powered by Cloudflare |
-| EMU-Stu-Portal | Unified portal for labs and projects          |
-| EMU-Stu-Brand  | Logos and brand assets                        |
+* 物联网实验室 （IOT Lab）
+* 河北省安全生产与应急处置特种机器人重点实验室 （CNB Lab）
+* ArkLab 方舟实验室
+* 利刃网安攻防实验室
+
+> 欢迎更多实验室加入！
 
 ---
 
-## Organization Structure
+## 精选项目
+
+| 项目 | 简介 |
+| ---- | ---- |
+| hitscounter | 基于 Cloudflare 的轻量级访问计数器 |
+| EMU-Stu-Portal | 面向实验室与项目的统一导航门户 |
+| EMU-Stu-Brand | Logo 与品牌资产仓库 |
+
+---
+
+## 组织结构
 
 ```text
-.github            # Organization profile
-EMU-Stu-Portal     # Labs & project navigation
-EMU-Stu-Brand      # Logos and brand assets
+.github            # 组织主页配置
+EMU-Stu-Portal     # 实验室与项目导航
+EMU-Stu-Brand      # Logo 与品牌资产
 ```
 
 ---
 
-## Join Us
+## 加入我们
 
-We welcome:
+我们欢迎：
 
-* Student developers
-* Laboratory teams
-* Open-source contributors
-* Creative designers
+* 学生开发者
+* 实验室团队
+* 开源贡献者
+* 创意设计者
 
 ---
 
-## Links
+## 链接
 
-* Organization Portal: Coming Soon
-* Documentation: Coming Soon
+* 组织门户：_即将上线_
+* 文档：_即将上线_
 
 ---
 
 <div align="center">
 
-Made with ❤️ by EMU-Stu
+由 EMU-Stu 用 ❤️ 制作
 
 </div>
