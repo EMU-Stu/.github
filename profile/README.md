@@ -6,44 +6,48 @@
 
 [![https://github.com/EMU-Stu](https://visit.futseyi.com/api/combined?path=https%3A%2F%2Fgithub.com%2FEMU-Stu)](https://visit.futseyi.com/status?path=https%3A%2F%2Fgithub.com%2FEMU-Stu)
 
+### 
+
+<!-- Language Switcher -->
+
+<p align="right">
+  <strong>🇺🇸 English</strong> | 
+  <a href="./README_zh.md">🇨🇳 中文版本</a>
+</p>
+
+---
+
+# EMU-Stu
+
 ### Student Organization for Labs, Open Source, and Technical Collaboration
 
 Building projects, sharing ideas, and growing together.
 
-</div>
-
----
-
 ## About
 
-**EMU-Stu** is a student-driven GitHub organization focused on:
+EMU-Stu is a student-driven GitHub organization focused on:
 
-* Laboratory collaboration
-* Open-source projects
-* Technical learning and sharing
-* Student innovation and development
+* **Laboratory collaboration**
+* **Open-source projects**
+* **Technical learning and sharing**
+* **Student innovation and development**
 
 We provide a unified space for students and labs to host, manage, and showcase projects.
 
----
-
 ## Labs
 
-* IOT Lab
-* CNB Lab
-> More labs coming soon.
+* **IOT Lab** (Internet of Things)
+* **CNB Lab**
 
----
+*More labs coming soon.*
 
 ## Featured Projects
 
-| Project        | Description                                   |
-| -------------- | --------------------------------------------- |
-| hitscounter    | Minimal visitor counter powered by Cloudflare |
-| EMU-Stu-Portal | Unified portal for labs and projects          |
-| EMU-Stu-Brand  | Logos and brand assets                        |
-
----
+| Project            | Description                                   |
+|:------------------ |:--------------------------------------------- |
+| **hitscounter**    | Minimal visitor counter powered by Cloudflare |
+| **EMU-Stu-Portal** | Unified portal for labs and projects          |
+| **EMU-Stu-Brand**  | Logos and brand assets                        |
 
 ## Organization Structure
 
@@ -51,30 +55,5 @@ We provide a unified space for students and labs to host, manage, and showcase p
 .github            # Organization profile
 EMU-Stu-Portal     # Labs & project navigation
 EMU-Stu-Brand      # Logos and brand assets
-```
-
----
-
-## Join Us
-
-We welcome:
-
-* Student developers
-* Laboratory teams
-* Open-source contributors
-* Creative designers
-
----
-
-## Links
-
-* Organization Portal: Coming Soon
-* Documentation: Coming Soon
-
----
-
-<div align="center">
-
-Made with ❤️ by EMU-Stu
 
 </div>
