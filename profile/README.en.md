@@ -33,6 +33,8 @@ We provide a unified space for students and labs to host, manage, and showcase p
 
 * IOT Lab
 * CNB Lab
+* Ark Lab
+* LiRen Cybersecurity Offense and Defense Lab
 > More labs coming soon.
 
 ---
@@ -70,8 +72,8 @@ We welcome:
 
 ## Links
 
-* Organization Portal: Coming Soon
-* Documentation: Coming Soon
+* Organization Portal: _Coming Soon_
+* Documentation: _Coming Soon_
 
 ---
 
