@@ -31,8 +31,8 @@ We provide a unified space for students and labs to host, manage, and showcase p
 
 ## Labs
 
-* IOT Lab
-* CNB Lab
+* IoT Lab
+* SER Lab
 * Ark Lab
 * LiRen Cybersecurity Offense and Defense Lab
 > More labs coming soon.
@@ -43,7 +43,6 @@ We provide a unified space for students and labs to host, manage, and showcase p
 
 | Project        | Description                                   |
 | -------------- | --------------------------------------------- |
-| hitscounter    | Minimal visitor counter powered by Cloudflare |
 | EMU-Stu-Portal | Unified portal for labs and projects          |
 | EMU-Stu-Brand  | Logos and brand assets                        |
 
