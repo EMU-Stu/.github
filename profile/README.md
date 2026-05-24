@@ -4,7 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/EMU-Stu/EMU-Stu-Brand/main/assets/logos/emu-stu/logo.png" width="140" alt="EMU-Stu Logo"/>
 
-[English](./README.en.md)
+[组织官网](https://emu-stu.github.io/) | [English](./README.en.md)
 
 [![https://github.com/EMU-Stu](https://visit.futseyi.com/api/combined?path=https%3A%2F%2Fgithub.com%2FEMU-Stu)](https://visit.futseyi.com/status?path=https%3A%2F%2Fgithub.com%2FEMU-Stu)
 
@@ -40,25 +40,6 @@
 
 ---
 
-## 精选项目
-
-| 项目 | 简介 |
-| ---- | ---- |
-| EMU-Stu-Portal | 面向实验室与项目的统一导航门户 |
-| EMU-Stu-Brand | Logo 与品牌资产仓库 |
-
----
-
-## 组织结构
-
-```text
-.github            # 组织主页配置
-EMU-Stu-Portal     # 实验室与项目导航
-EMU-Stu-Brand      # Logo 与品牌资产
-```
-
----
-
 ## 加入我们
 
 我们欢迎：
@@ -72,7 +53,7 @@ EMU-Stu-Brand      # Logo 与品牌资产
 
 ## 链接
 
-* 组织门户：_即将上线_
+* 官网：[https://emu-stu.github.io/](https://emu-stu.github.io/)
 * 文档：_即将上线_
 
 ---
