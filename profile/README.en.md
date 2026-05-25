@@ -4,7 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/EMU-Stu/EMU-Stu-Brand/main/assets/logos/emu-stu/logo.png" width="140" alt="EMU-Stu Logo"/>
 
-[简体中文](./README.md)
+[Organization Website](https://emu-stu.github.io/) | [简体中文](./README.md)
 
 [![https://github.com/EMU-Stu](https://visit.futseyi.com/api/combined?path=https%3A%2F%2Fgithub.com%2FEMU-Stu)](https://visit.futseyi.com/status?path=https%3A%2F%2Fgithub.com%2FEMU-Stu)
 
@@ -39,25 +39,6 @@ We provide a unified space for students and labs to host, manage, and showcase p
 
 ---
 
-## Featured Projects
-
-| Project        | Description                                   |
-| -------------- | --------------------------------------------- |
-| EMU-Stu-Portal | Unified portal for labs and projects          |
-| EMU-Stu-Brand  | Logos and brand assets                        |
-
----
-
-## Organization Structure
-
-```text
-.github            # Organization profile
-EMU-Stu-Portal     # Labs & project navigation
-EMU-Stu-Brand      # Logos and brand assets
-```
-
----
-
 ## Join Us
 
 We welcome:
@@ -71,7 +52,7 @@ We welcome:
 
 ## Links
 
-* Organization Portal: _Coming Soon_
+* Organization Portal: [https://emu-stu.github.io/](https://emu-stu.github.io/)
 * Documentation: _Coming Soon_
 
 ---
